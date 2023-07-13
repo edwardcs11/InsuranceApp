@@ -1,12 +1,14 @@
     import React from 'react'
     import Navbar from "./Navbar";
+    import Tablist from "./Tablist";
 
-    const Home = () => {
-        return <div className="home-container">
+    function Home() {
+        return ( <div className="home-container">
             <Navbar/>
+                <Tablist/>
+        </div>
+    );
+    }
 
-        </div>;
-    };
 
-
-    export default Home
+    export default Home;
