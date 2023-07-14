@@ -16,7 +16,7 @@ https://github.com/edwardcs11/InsuranceApp
 ## Application Overview
 
 Landing Page Overview
-![](overview/landing page.png)
+![](https://github.com/edwardcs11/InsuranceApp/blob/main/overview/landingpage.png)
 
 Connect to Wallet
 ![](overview/connect wallet.png)
