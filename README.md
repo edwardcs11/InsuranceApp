@@ -19,8 +19,8 @@ Landing Page Overview
 ![](https://github.com/edwardcs11/InsuranceApp/blob/main/overview/landingpage.png)
 
 Connect to Wallet
-![](overview/connect wallet.png)
+![](https://github.com/edwardcs11/InsuranceApp/blob/main/overview/connectwallet.png)
 
 Buy Insurance
-![](overview/buy insurance.png)
+![](https://github.com/edwardcs11/InsuranceApp/blob/main/overview/buyinsurance.png)
 
